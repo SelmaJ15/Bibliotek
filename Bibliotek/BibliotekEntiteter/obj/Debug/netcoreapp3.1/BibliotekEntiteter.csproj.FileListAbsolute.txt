@@ -1,0 +1,40 @@
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\bin\Debug\netcoreapp3.1\BibliotekEntiteter.deps.json
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\bin\Debug\netcoreapp3.1\BibliotekEntiteter.dll
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\bin\Debug\netcoreapp3.1\BibliotekEntiteter.pdb
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.csproj.AssemblyReference.cache
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.AssemblyInfoInputs.cache
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.AssemblyInfo.cs
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.csproj.CoreCompileInputs.cache
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.dll
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.pdb
+C:\Users\selma\Downloads\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\bin\Debug\netcoreapp3.1\BibliotekEntiteter.deps.json
+C:\Users\selma\Downloads\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\bin\Debug\netcoreapp3.1\BibliotekEntiteter.dll
+C:\Users\selma\Downloads\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\bin\Debug\netcoreapp3.1\BibliotekEntiteter.pdb
+C:\Users\selma\Downloads\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.csproj.AssemblyReference.cache
+C:\Users\selma\Downloads\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selma\Downloads\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.AssemblyInfoInputs.cache
+C:\Users\selma\Downloads\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.AssemblyInfo.cs
+C:\Users\selma\Downloads\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.csproj.CoreCompileInputs.cache
+C:\Users\selma\Downloads\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.dll
+C:\Users\selma\Downloads\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.pdb
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\bin\Debug\netcoreapp3.1\BibliotekEntiteter.deps.json
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\bin\Debug\netcoreapp3.1\BibliotekEntiteter.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\bin\Debug\netcoreapp3.1\BibliotekEntiteter.pdb
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.pdb
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\BibliotekEntiteter\bin\Debug\netcoreapp3.1\BibliotekEntiteter.deps.json
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\BibliotekEntiteter\bin\Debug\netcoreapp3.1\BibliotekEntiteter.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\BibliotekEntiteter\bin\Debug\netcoreapp3.1\BibliotekEntiteter.pdb
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\BibliotekEntiteter\obj\Debug\netcoreapp3.1\BibliotekEntiteter.pdb

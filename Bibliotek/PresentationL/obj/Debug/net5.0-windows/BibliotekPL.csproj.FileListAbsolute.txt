@@ -1,0 +1,114 @@
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.HämtaBok.resources
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\obj\Debug\net5.0-windows\PresentationL.LoggaIn.resources
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.Meny.resources
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.ReserveraBok.resources
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.VäljMedlemForm.Hämta_VäljMedlem.resources
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.VäljMedlemForm.Reservera_VäljMedlem.resources
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.VäljMedlemForm.Återlämna_VäljMedlem.resources
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.ÅterlämnaBok.resources
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekPL.exe
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekPL.deps.json
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekPL.runtimeconfig.json
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekPL.runtimeconfig.dev.json
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekPL.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\ref\BibliotekPL.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekPL.pdb
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekAL.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekDL.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekEntiteter.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekAL.pdb
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekDL.pdb
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekEntiteter.pdb
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\obj\Debug\net5.0-windows\ref\BibliotekPL.dll
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.pdb
+C:\Users\Administrator\Downloads\Bibliotek-lab1 (1)\Bibliotek-B_3\Bibliotek-B_3\Bibliotek-B\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekPL.exe
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekPL.deps.json
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekPL.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekPL.runtimeconfig.dev.json
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekPL.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\ref\BibliotekPL.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekPL.pdb
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekAL.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekDL.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekEntiteter.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekAL.pdb
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekDL.pdb
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\bin\Debug\net5.0-windows\BibliotekEntiteter.pdb
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.HämtaBok.resources
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\obj\Debug\net5.0-windows\PresentationL.LoggaIn.resources
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.Meny.resources
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.ReserveraBok.resources
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.VäljMedlemForm.Hämta_VäljMedlem.resources
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.VäljMedlemForm.Reservera_VäljMedlem.resources
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.VäljMedlemForm.Återlämna_VäljMedlem.resources
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.ÅterlämnaBok.resources
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.csproj.CopyComplete
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\obj\Debug\net5.0-windows\ref\BibliotekPL.dll
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.pdb
+C:\Users\Administrator\OneDrive\Skrivbord\Bibliotek(labb2)\Bibliotek\PresentationL\obj\Debug\net5.0-windows\BibliotekPL.genruntimeconfig.cache

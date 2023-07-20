@@ -1,0 +1,17 @@
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekConsole\bin\Debug\netcoreapp3.1\BibliotekConsole.deps.json
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekConsole\bin\Debug\netcoreapp3.1\BibliotekConsole.dll
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekConsole\bin\Debug\netcoreapp3.1\BibliotekConsole.pdb
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekConsole\bin\Debug\netcoreapp3.1\BibliotekAL.dll
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekConsole\bin\Debug\netcoreapp3.1\BibliotekDL.dll
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekConsole\bin\Debug\netcoreapp3.1\BibliotekEntiteter.dll
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekConsole\bin\Debug\netcoreapp3.1\BibliotekEntiteter.pdb
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekConsole\bin\Debug\netcoreapp3.1\BibliotekAL.pdb
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekConsole\bin\Debug\netcoreapp3.1\BibliotekDL.pdb
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekConsole\obj\Debug\netcoreapp3.1\BibliotekConsole.csproj.AssemblyReference.cache
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekConsole\obj\Debug\netcoreapp3.1\BibliotekConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekConsole\obj\Debug\netcoreapp3.1\BibliotekConsole.AssemblyInfoInputs.cache
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekConsole\obj\Debug\netcoreapp3.1\BibliotekConsole.AssemblyInfo.cs
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekConsole\obj\Debug\netcoreapp3.1\BibliotekConsole.csproj.CoreCompileInputs.cache
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekConsole\obj\Debug\netcoreapp3.1\BibliotekConsole.csproj.CopyComplete
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekConsole\obj\Debug\netcoreapp3.1\BibliotekConsole.dll
+C:\Users\Belma Jakupovic\Downloads\Bibliotek-B_3\Bibliotek-B\Bibliotek\BibliotekConsole\obj\Debug\netcoreapp3.1\BibliotekConsole.pdb

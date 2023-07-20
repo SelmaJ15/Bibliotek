@@ -1,0 +1,239 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\BibliotekConsole\\BibliotekConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\BibliotekConsole\\BibliotekConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\BibliotekConsole\\BibliotekConsole.csproj",
+        "projectName": "BibliotekConsole",
+        "projectPath": "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\BibliotekConsole\\BibliotekConsole.csproj",
+        "packagesPath": "C:\\Users\\selma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\BibliotekConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\selma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\Bibliotek\\BibliotekAL.csproj": {
+                "projectPath": "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\Bibliotek\\BibliotekAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\BibliotekDL\\BibliotekDL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\BibliotekDL\\BibliotekDL.csproj",
+        "projectName": "BibliotekDL",
+        "projectPath": "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\BibliotekDL\\BibliotekDL.csproj",
+        "packagesPath": "C:\\Users\\selma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\BibliotekDL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\selma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\BibliotekEntiteter\\BibliotekEntiteter.csproj": {
+                "projectPath": "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\BibliotekEntiteter\\BibliotekEntiteter.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\BibliotekEntiteter\\BibliotekEntiteter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\BibliotekEntiteter\\BibliotekEntiteter.csproj",
+        "projectName": "BibliotekEntiteter",
+        "projectPath": "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\BibliotekEntiteter\\BibliotekEntiteter.csproj",
+        "packagesPath": "C:\\Users\\selma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\BibliotekEntiteter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\selma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\Bibliotek\\BibliotekAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\Bibliotek\\BibliotekAL.csproj",
+        "projectName": "BibliotekAL",
+        "projectPath": "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\Bibliotek\\BibliotekAL.csproj",
+        "packagesPath": "C:\\Users\\selma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\Bibliotek\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\selma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\BibliotekDL\\BibliotekDL.csproj": {
+                "projectPath": "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\BibliotekDL\\BibliotekDL.csproj"
+              },
+              "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\BibliotekEntiteter\\BibliotekEntiteter.csproj": {
+                "projectPath": "C:\\Users\\selma\\Downloads\\Bibliotek-B_3\\Bibliotek-B_3\\Bibliotek-B\\Bibliotek\\BibliotekEntiteter\\BibliotekEntiteter.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

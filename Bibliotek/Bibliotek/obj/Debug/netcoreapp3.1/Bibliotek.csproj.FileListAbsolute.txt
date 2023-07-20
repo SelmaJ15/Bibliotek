@@ -1,0 +1,10 @@
+C:\Users\selma\source\repos\Bibliotek\Bibliotek\bin\Debug\netcoreapp3.1\Bibliotek.deps.json
+C:\Users\selma\source\repos\Bibliotek\Bibliotek\bin\Debug\netcoreapp3.1\Bibliotek.dll
+C:\Users\selma\source\repos\Bibliotek\Bibliotek\bin\Debug\netcoreapp3.1\Bibliotek.pdb
+C:\Users\selma\source\repos\Bibliotek\Bibliotek\obj\Debug\netcoreapp3.1\Bibliotek.csproj.AssemblyReference.cache
+C:\Users\selma\source\repos\Bibliotek\Bibliotek\obj\Debug\netcoreapp3.1\Bibliotek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selma\source\repos\Bibliotek\Bibliotek\obj\Debug\netcoreapp3.1\Bibliotek.AssemblyInfoInputs.cache
+C:\Users\selma\source\repos\Bibliotek\Bibliotek\obj\Debug\netcoreapp3.1\Bibliotek.AssemblyInfo.cs
+C:\Users\selma\source\repos\Bibliotek\Bibliotek\obj\Debug\netcoreapp3.1\Bibliotek.csproj.CoreCompileInputs.cache
+C:\Users\selma\source\repos\Bibliotek\Bibliotek\obj\Debug\netcoreapp3.1\Bibliotek.dll
+C:\Users\selma\source\repos\Bibliotek\Bibliotek\obj\Debug\netcoreapp3.1\Bibliotek.pdb

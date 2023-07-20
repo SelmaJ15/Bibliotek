@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BibliotekConsole/1.0.0": {
+        "dependencies": {
+          "BibliotekAL": "1.0.0",
+          "BibliotekEntiteter": "1.0.0"
+        },
+        "runtime": {
+          "BibliotekConsole.dll": {}
+        }
+      },
+      "BibliotekAL/1.0.0": {
+        "dependencies": {
+          "BibliotekDL": "1.0.0",
+          "BibliotekEntiteter": "1.0.0"
+        },
+        "runtime": {
+          "BibliotekAL.dll": {}
+        }
+      },
+      "BibliotekDL/1.0.0": {
+        "dependencies": {
+          "BibliotekEntiteter": "1.0.0"
+        },
+        "runtime": {
+          "BibliotekDL.dll": {}
+        }
+      },
+      "BibliotekEntiteter/1.0.0": {
+        "runtime": {
+          "BibliotekEntiteter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibliotekConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotekAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotekDL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotekEntiteter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
